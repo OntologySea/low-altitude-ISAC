@@ -1,10 +1,4 @@
 # low-altitude-ISAC
-## 1. folder "multiWindowRangeExtension"
-
-Matlab code for "Enhanced PRACH Detection Method for Long-Distance Low-Altitude Access in 5G NR"
-
-## 2. folder "prachISACArch"
-
 Python code for "Receiver-Side Multi-Window PRACH Processing for Integrated Sensing and Communication in 5G NR", precondition:
 ```python
   pip install numpy scipy matplotlib
